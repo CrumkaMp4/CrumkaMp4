@@ -1,6 +1,6 @@
 ### Languages and Tools
 ![Html](https://img.shields.io/badge/-Html-FF4500?style=for-the-badge&logo=html&logoColor=FF4500)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=for-the-badge&logo=Java&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![[Python]](https://img.shields.io/badge/-Python-E6E6FA?style=for-the-badge&logo=python&logoColor=0000FF)
 
 ### Follow Me
