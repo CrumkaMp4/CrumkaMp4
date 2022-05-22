@@ -5,4 +5,4 @@
 
 ### Follow Me
 [![Discord Server](https://img.shields.io/badge/-Discord-00CED1?style=for-the-badge&logo=Discord&logoColor=4682B4)](https://gamesserver.cf)
-[![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://gamesserver.cf)
+[![Telegram](https://img.shields.io/badge/-Telegram-4682B4?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Bobik2222)
